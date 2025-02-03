@@ -1,5 +1,4 @@
 const mineflayer = require('mineflayer');
-const { Bot } = require('mineflayer');
 const express = require('express');
 
 const config = require('./settings.json');
@@ -28,8 +27,6 @@ function createBot() {
 
   bot.on('spawn', () => {
     console.log('[INFO] Bot joined the server');
-
-    // Check the player count and decide whether to leave or stay
     checkPlayerCount();
   });
 
