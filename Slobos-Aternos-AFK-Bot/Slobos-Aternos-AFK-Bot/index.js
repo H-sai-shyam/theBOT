@@ -170,7 +170,3 @@ function createBot() {
 }
 
 createBot();
-
-
-
-
