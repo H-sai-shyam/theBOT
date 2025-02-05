@@ -12,10 +12,10 @@
   },
   
   "position": {
-    "enabled": true,
-    "x": 1250,
-    "y": 80,
-    "z": -550
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
   },
 
   "utils": {
@@ -38,7 +38,10 @@
         "nigga stfu",
         "im a nigga",
         "tao kinda gay",
-        "chat is tao gay?"
+        "chat is tao gay?",
+        "allah hu Akbar",
+        "nandu is gay",
+        
       ]
     },
 
