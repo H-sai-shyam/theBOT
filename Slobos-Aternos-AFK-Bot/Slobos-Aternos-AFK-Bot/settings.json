@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "AKFNIGGA", 
     "password": "",
     "type": "mojang"
   },
@@ -12,7 +12,7 @@
   },
   
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 0,
     "z": 0
