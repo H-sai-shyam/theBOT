@@ -1,21 +1,21 @@
 {
   "bot-account": {
-    "username": "AKFNIGGA", 
+    "username": "AFKBot", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
     "ip": "serversarea51.aternos.me", 
-    "port": "14620",   
+    "port": 14620,   
     "version": "1.12.1"   
   },
   
   "position": {
-    "enabled": true,
-    "x": 1000,
-    "y": 1000,
-    "z": 1000
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
   },
 
   "utils": {
@@ -32,16 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 150,
+      "repeat-delay": 60,
 
       "messages": [
-        "nigga stfu",
-        "im a nigga",
-        "tao kinda gay",
-        "chat is tao gay?",
-        "allah hu Akbar",
-        "nandu is gay"
-        
+        "I'm a regular player",
+        "Subscibe To Slobos!",
+        "I Like to Play Minecraft!"
       ]
     },
 
@@ -50,4 +46,3 @@
     "auto-recconect-delay": 5000
   }
 }
-
